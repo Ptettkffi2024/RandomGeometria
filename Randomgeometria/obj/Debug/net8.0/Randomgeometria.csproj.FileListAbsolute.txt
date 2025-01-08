@@ -1,0 +1,15 @@
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\bin\Debug\net8.0\Randomgeometria.exe
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\bin\Debug\net8.0\Randomgeometria.deps.json
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\bin\Debug\net8.0\Randomgeometria.runtimeconfig.json
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\bin\Debug\net8.0\Randomgeometria.dll
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\bin\Debug\net8.0\Randomgeometria.pdb
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.AssemblyInfoInputs.cache
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.AssemblyInfo.cs
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.csproj.CoreCompileInputs.cache
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.sourcelink.json
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.dll
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\refint\Randomgeometria.dll
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.pdb
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\Randomgeometria.genruntimeconfig.cache
+c:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\RandomGeometria\Randomgeometria\obj\Debug\net8.0\ref\Randomgeometria.dll
