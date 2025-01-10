@@ -1,4 +1,4 @@
-﻿﻿using Geometria;
+﻿﻿using Randomgeometria;
 
 namespace Randomgeometria
 {
@@ -41,7 +41,10 @@ namespace Randomgeometria
 
             // Program paraméterek példányosítása
             var parameters = new ProgramParameters(outputPath);
-            
+
+            var creator = new RandomGeometriaGenerator(); // Random geometria generátor példányosítása
+            var geometries = new List<NetTopologySuite.Geometries.Geometry>(); // Egy lista, mely geometriai objektumokat fog tárolni, NetTopologySuite meghívása
+
         }
     }
 }
