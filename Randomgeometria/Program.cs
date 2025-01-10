@@ -45,6 +45,11 @@ namespace Randomgeometria
             var creator = new RandomGeometriaGenerator(); // Random geometria generátor példányosítása
             var geometries = new List<NetTopologySuite.Geometries.Geometry>(); // Egy lista, mely geometriai objektumokat fog tárolni, NetTopologySuite meghívása
 
+            // Geometriák generálása
+            for (int i = 0; i < count; i++)
+            {
+                geometries.Add(creator.GenerateGeometry(geometryType));
+            }
         }
     }
 }
