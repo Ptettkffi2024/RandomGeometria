@@ -50,6 +50,18 @@ namespace Randomgeometria
             {
                 geometries.Add(creator.GenerateGeometry(geometryType));
             }
+
+            // FileWriter példányosítása 
+            var fileWriter = new FileWriter(parameters);
+
+            // Geometriák fájlba írása
+            fileWriter.WriteGeometries(geometries);
+
+            // Sikeres üzenet
+            Console.WriteLine("Geometries successfully written to the file.");
+        
+            // Várakozik a felhasználói inputra, hogy látható legyen a kimenetet
+            Console.ReadLine();
         }
     }
 }
