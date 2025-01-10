@@ -1,4 +1,4 @@
-namespace Geometria
+namespace Randomgeometria
 {
     public class ProgramParameters
     {
