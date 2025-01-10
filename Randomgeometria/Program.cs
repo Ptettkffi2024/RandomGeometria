@@ -1,4 +1,6 @@
-﻿﻿namespace Randomgeometria
+﻿﻿using Geometria;
+
+namespace Randomgeometria
 {
     class Program
     {
@@ -36,6 +38,10 @@
                 Console.WriteLine("Invalid outputpath. Exiting...");
                 return;
             }
+
+            // Program paraméterek példányosítása
+            var parameters = new ProgramParameters(outputPath);
+            
         }
     }
 }
